@@ -76,3 +76,6 @@ make
 
 ## Bugs
 - TBD...
+
+## Notice
+This project was originally developed as part of the Operating Systems course at Florida State University.
