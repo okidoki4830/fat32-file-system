@@ -103,6 +103,13 @@ These commands allow navigation and manipulation of files stored within the FAT3
 
 ---
 
+## Build Example
+
+Compilation and execution of the FAT32 file system project on Ubuntu.
+
+![Build and Run](build_and_run.png)
+
+
 # Team & Contribution
 
 This project was developed as part of a team for the Operating Systems course.
